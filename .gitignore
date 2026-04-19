@@ -1,0 +1,13 @@
+# Raw data files (too large for GitHub)
+data/*.csv
+data/*.tsv
+data/*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python (if any preprocessing scripts)
+__pycache__/
+*.py[cod]
+.env
