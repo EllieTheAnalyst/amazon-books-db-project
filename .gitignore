@@ -11,5 +11,17 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 .env
+.venv
 
 *.csv
+.idea/workspace.xml
+.venv/bin/activate
+.venv/bin/activate.csh
+.venv/bin/activate.fish
+.venv/bin/Activate.ps1
+/.venv/bin
+
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
